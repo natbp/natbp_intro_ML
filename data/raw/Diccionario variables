@@ -1,0 +1,121 @@
+DICCIONARIO_VARIABLES/
+│
+├── LOCALIZACION/
+│   ├── fips
+│   ├── COUNTY_NAME
+│   ├── STATE_NAME
+│   ├── STATE_FIPS
+│   ├── CNTY_FIPS
+│   └── Urban_rural_code
+│
+├── DEMOGRAFIA/
+│   ├── TOT_POP
+│   ├── Total Population
+│   ├── POP_ESTIMATE_2018
+│   ├── county_pop2018_18 and older
+│   ├── 0-9
+│   ├── 0-9 y/o % of total pop
+│   ├── 10-19 (Antes 19-Oct)
+│   ├── 10-19 y/o % of total pop
+│   ├── 20-29
+│   ├── 20-29 y/o % of total pop
+│   ├── 30-39
+│   ├── 30-39 y/o % of total pop
+│   ├── 40-49
+│   ├── 40-49 y/o % of total pop
+│   ├── 50-59
+│   ├── 50-59 y/o % of total pop
+│   ├── 60-69
+│   ├── 60-69 y/o % of total pop
+│   ├── 70-79
+│   ├── 70-79 y/o % of total pop
+│   ├── 80+
+│   ├── 80+ y/o % of total pop
+│   ├── Population Aged 60+
+│   ├── Percent of Population Aged 60+
+│   ├── White-alone pop
+│   ├── % White-alone
+│   ├── Black-alone pop
+│   ├── % Black-alone
+│   ├── Native American/American Indian-alone pop
+│   ├── % NA/AI-alone
+│   ├── Asian-alone pop
+│   ├── % Asian-alone
+│   ├── Hawaiian/Pacific Islander-alone pop
+│   ├── % Hawaiian/PI-alone
+│   ├── Two or more races pop
+│   └── % Two or more races
+│
+├── DINAMICA_POBLACIONAL/
+│   ├── N_POP_CHG_2018
+│   ├── GQ_ESTIMATES_2018
+│   ├── R_birth_2018
+│   ├── R_death_2018
+│   ├── R_NATURAL_INC_2018
+│   ├── R_INTERNATIONAL_MIG_2018
+│   ├── R_DOMESTIC_MIG_2018
+│   └── R_NET_MIG_2018
+│
+├── SOCIOECONOMIA_Y_EDUCACION/
+│   ├── Less than a high school diploma 2014-18
+│   ├── High school diploma only 2014-18
+│   ├── Some college or associate's degree 2014-18
+│   ├── Bachelor's degree or higher 2014-18
+│   ├── Percent of adults with less than a high school diploma 2014-18
+│   ├── Percent of adults with a high school diploma only 2014-18
+│   ├── Percent of adults completing some college or associate's degree 2014-18
+│   ├── Percent of adults with a bachelor's degree or higher 2014-18
+│   ├── POVALL_2018
+│   ├── PCTPOVALL_2018
+│   ├── PCTPOV017_2018
+│   ├── PCTPOV517_2018
+│   ├── MEDHHINC_2018
+│   ├── CI90LBINC_2018
+│   ├── CI90UBINC_2018
+│   ├── Civilian_labor_force_2018
+│   ├── Employed_2018
+│   ├── Unemployed_2018
+│   ├── Unemployment_rate_2018
+│   ├── Median_Household_Income_2018
+│   └── Med_HH_Income_Percent_of_State_Total_2018
+│
+├── INFRAESTRUCTURA_Y_TALENTO/
+│   ├── ICU Beds_x
+│   ├── Total Hospitals (2019)
+│   ├── Active Physicians per 100000 Population 2018 (AAMC)
+│   ├── Total Active Patient Care Physicians per 100000 Population 2018 (AAMC)
+│   ├── Active Primary Care Physicians per 100000 Population 2018 (AAMC)
+│   ├── Active Patient Care Primary Care Physicians per 100000 Population 2018 (AAMC)
+│   ├── Active General Surgeons per 100000 Population 2018 (AAMC)
+│   ├── Active Patient Care General Surgeons per 100000 Population 2018 (AAMC)
+│   ├── Total nurse practitioners (2019)
+│   ├── Total physician assistants (2019)
+│   ├── Internal Medicine Primary Care (2019)
+│   ├── Family Medicine/General Practice Primary Care (2019)
+│   └── Total Specialist Physicians (2019)
+│
+└── MORBILIDAD/
+    ├── anycondition_prevalence
+    ├── anycondition_Lower 95% CI
+    ├── anycondition_Upper 95% CI
+    ├── anycondition_number
+    ├── Obesity_prevalence
+    ├── Obesity_Lower 95% CI
+    ├── Obesity_Upper 95% CI
+    ├── Obesity_number
+    ├── Heart disease_prevalence
+    ├── Heart disease_Lower 95% CI
+    ├── Heart disease_Upper 95% CI
+    ├── Heart disease_number
+    ├── COPD_prevalence
+    ├── COPD_Lower 95% CI
+    ├── COPD_Upper 95% CI
+    ├── COPD_number
+    ├── diabetes_prevalence
+    ├── diabetes_Lower 95% CI
+    ├── diabetes_Upper 95% CI
+    ├── diabetes_number
+    ├── CKD_prevalence
+    ├── CKD_Lower 95% CI
+    ├── CKD_Upper 95% CI
+    └── CKD_number
