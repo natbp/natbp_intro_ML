@@ -17,3 +17,11 @@ streamlit
 joblib
 nltk
 scikit-learn
+npandas
+njoblib
+nnltk
+nmatplotlib
+nseaborn
+nwordcloud
+nscikit-learn
+wordcloud==1.9.4
