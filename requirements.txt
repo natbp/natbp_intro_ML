@@ -17,4 +17,4 @@ streamlit
 joblib
 nltk
 scikit-learn
-wordcloud==1.9.4
+wordcloud
