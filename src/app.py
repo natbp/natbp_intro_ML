@@ -241,3 +241,5 @@ elif st.session_state.page == 'Dashboard':
                 ).generate(txt_all).to_array(),
                 use_container_width=True
             )
+            
+#Link al render: https://safeguard-pro-ml.onrender.com/
